@@ -35,11 +35,6 @@
         "icon": "fa-solid fa-user"
       },
       {
-        "id": "reviews",
-        "label": "Reviews",
-        "icon": "fa-solid fa-comment"
-      },
-      {
         "id": "contact",
         "label": "Contato",
         "icon": "fa-solid fa-envelope"
@@ -54,15 +49,15 @@
     "content": {
       "image": "images/logo.png",
       "paragraphs": [
-        "Ryan Balieiro created the Foxy Agency Template, a free Vue3 & Bootstrap 5.0 theme. The downloadable files consist of the entire source code, including HTML, CSS, and Javascript. Please feel free to download and customize the theme as you wish.",
-        "With this template, you have the freedom to create custom sections, fill pre-existing ones with your own content, and personalize the colors, fonts, and much more to your liking.",
-        "In case you encounter any challenges while attempting to customize or run this template, please feel free to reach out to me without any hesitation. I would be more than happy to extend my assistance and help you out in every possible way."
+        "Este tempate foi criado pelos integrantes do Grupo 3 como uma alternativa mais simplificada de template voltado para grupos de catequese de qualquer parte do Brasil. Como o projeto está localizado no GitHub qualquer um pode baixá-lo e modificá-lo como achar melhor",
+        "Com este template, você tem a liberdade criativa de expressar seus projetos e atiividades de maneira minimalista e elegante",
+        "Caso você encontre alguma dificuldade na utilização deste template, não hesite em entrar em contato, nós estaríamos mais do que feliz em responder suas perguntas e ajudar como pudermos."
       ]
     },
     "button": {
       "label": "Download Now!",
       "icon": "fa-solid fa-download",
-      "href": "https://github.com/ryanbalieiro/foxy-template"
+      "href": "https://github.com/totallynotfe/frontend-app"
     }
   },
 
@@ -75,37 +70,37 @@
       {
         "title": "Artigos Religiosos",
         "icon": "fa-solid fa-book-bible",
-        "description": "This template is built using the Vue3 JavaScript framework, providing a modern and efficient development experience."
+        "description": "Em nossas dependências possuímos diversos artigos religiosos, incluindo Bíblias, terços e escapulários."
       },
 
       {
         "title": "Estudos",
         "icon": "fa-solid fa-book-open-reader",
-        "description": "This template is designed to adapt seamlessly to various screen sizes, providing a consistent user experience across devices."
+        "description": "Possuímos diversas salas de estudo, abrangendo desde as idades mais novas até as mais avançadas."
       },
 
       {
         "title": "Missas Online",
         "icon": "fa-solid fa-video",
-        "description": "This template features a clean and simple design, with a focus on essential elements, resulting in a modern and elegant look."
+        "description": "Temos missas transmitidas online por meio de nosso canal do YouTube, toda Segunda, Quarta e Sexta-feiras."
       },
 
       {
         "title": "Grupos de Estudo",
         "icon": "fa-solid fa-people-group",
-        "description": "This template can be easily customized to match your brand's visual identity and requirements, giving you full control over the design and functionality."
+        "description": "Possuímos grupos de estudo que se dão aos sábados, sempre nas casas de um dos integrantes, mas sempre com um representante direto de nossa igreja."
       },
 
       {
         "title": "Materiais",
         "icon": "fa-solid fa-folder",
-        "description": "This template is open-source, meaning the code is publicly accessible and can be modified or redistributed without restrictions."
+        "description": "Oferecemos materiais para download diretamente de nosso site, estes materiais incluem atividades lúdicas e estudos bíblicos."
       },
 
       {
         "title": "Pedidos de Oração",
         "icon": "fa-solid fa-hands-praying",
-        "description": "This template is optimized for performance and speed, with a minimal codebase and minimal dependencies, resulting in a faster load time and improved user experience."
+        "description": "Atendemos pedidos de oração feitos por meio da nossa seção de contato, simplesmente coloque 'Oração' como o assunto que seu pedido será direcionado ao nosso grupo especializado."
       }
     ]
   },
@@ -117,105 +112,78 @@
     "projects": [
       {
         "title": "Arrecadação de Alimento",
-        "category": "Marketing",
+        "category": "Arrecadação",
         "srcImage": "images/portfolio/portfolio-1.png",
-        "tags": ["marketing", "seo", "growth"],
-        "description": "A project aimed at providing innovative software solutions to businesses. The company plans to expand its reach by developing a mobile app that will allow users to access their services from anywhere. With a focus on user experience, the app will feature a simple interface, fast loading times, and easy navigation. TechMeUp also plans to partner with other companies to offer integrated services, increasing revenue streams and boosting brand recognition. To support growth, the company will invest in marketing, including social media campaigns and targeted advertising."
+        "tags": ["caridade", "arrecadamento", "atendimento"],
+        "description": "Nossos alunos participam de atividades para arrecadamento de alimento que auxiliam na montagem de cestas básicas que são enviadas para famílias carentes atendidas pela nossa igreja. Estes eventos tomam forma de diversas maneiras, seja um evento beneficente, seja uma gincana, ou simplesmente uma campanha de concientização para a importância da caridade."
       },
 
       {
         "title": "Grupo de Canto",
-        "category": "Sales & Business",
+        "category": "Arte",
         "srcImage": "images/portfolio/portfolio-2.png",
-        "tags": ["sales", "business", "income"],
-        "description": "A sales project focused on selling high-end power tools to construction companies. The company plans to target medium to large-sized businesses with a high volume of construction projects and a need for top-quality tools. The sales team will utilize a consultative approach, first identifying the specific needs of each client and then providing tailored solutions. To drive sales, PowerX will offer competitive pricing, flexible payment terms, and bulk discounts."
+        "tags": ["canto", "arte", "apresentação"],
+        "description": "Nosso grupo de canto é comandado por pessoas apaixonadas pela benção da voz fornecida por nós por Deus. Se apresentam em diversos lugares, desde eventos beneficentes até asilos e comunidades de reabilitação de cidadãos. Os encontros se dão todo Sábado às 14:00."
       },
 
       {
         "title": "Teatro",
-        "category": "Logistics",
+        "category": "Arte",
         "srcImage": "images/portfolio/portfolio-3.png",
-        "tags": ["logistics", "management", "transportation"],
-        "description": "A logistics project focused on streamlining the transportation of goods for small and medium-sized businesses. The company plans to offer end-to-end logistics solutions, including transportation, warehousing, and distribution services. TransLink will utilize a tech-driven approach, providing real-time tracking of shipments and delivery updates via a user-friendly online portal. The company will also implement advanced analytics and automation tools to optimize supply chain management and reduce operational costs."
+        "tags": ["teatro", "arte", "apresentação"],
+        "description": "Temos um grupo teatral aonde encenamos passagens bíbilicas e criamos peças que reflitam os ensinamentos de Jesus. O grupo se apresenta tanto para a própria igreja quanto para escolas, orfanatos e asilos. Os encontros do grupo se dão todas as Quartas às 08:00 e às 18:00."
       },
 
       {
         "title": "Leitura Diária",
-        "category": "Mobile App",
+        "category": "Estudo",
         "srcImage": "images/portfolio/portfolio-4.png",
-        "tags": ["app", "mobile", "time management"],
-        "description": "A fictional time management app project designed to help users increase productivity and manage their time effectively. The app will feature a simple and intuitive interface that allows users to set goals, track their progress, and analyze their performance. TimeTrack will utilize advanced analytics to provide personalized insights and recommendations, helping users optimize their schedules and prioritize their tasks. The app will also offer features like task batching, time-blocking, and habit tracking, allowing users to maximize their time and establish healthy habits."
+        "tags": ["bíblia", "versículos", "estudo"],
+        "description": "Poucas coisas são tão importante quanto a palavra do Senhor, então separamos, diariamete, um trecho da bíblia para leitura, juntamente com uma reflexão sobre o trecho escolhido. Isso serve para nossos seguidores que estão na correria do dia a dia e precisam de uma palavra de acalento para conseguirem seguir seus dias, ou para qualquer pessoa que queira se aprofundar em seus estudos."
       },
 
       {
         "title": "Pinturas",
-        "category": "Project Management",
+        "category": "Arte",
         "srcImage": "images/portfolio/portfolio-5.png",
-        "tags": ["project", "management", "software"],
-        "description": "A fictional project management solution aimed at helping businesses and teams efficiently manage their projects from start to finish. The software will provide a user-friendly interface that allows users to create and manage project tasks, timelines, and milestones. ProjectPro will also include features like resource allocation, budget tracking, and risk management, enabling teams to stay on track and within budget. The app will offer a real-time communication platform for team members to collaborate and share files, reducing the need for emails and meetings."
+        "tags": ["arte", "pintura", "aulas"],
+        "description": "Temos aulas de pinturas, aonde nossos alunos aprendem a se expressar por meio da arte e a utilizar dessa mídia para trazer glória ao Senhor e para representarem seu amor ao Pai maior. As peças poduzidas nas aulas são apresentadas na igreja uma vez por semestre. Os encontros se dão todas as Terças às 08:00 e às 18:00"
       },
 
       {
         "title": "Aula de Violão",
-        "category": "App Development",
+        "category": "Arte",
         "srcImage": "images/portfolio/portfolio-6.png",
-        "tags": ["iOS", "swift", "developer"],
-        "description": "An iOS development project aimed at creating an innovative app that solves a specific problem or meets a specific need. The app will be developed using Swift, Apple's programming language for iOS and macOS, and will feature a clean and intuitive user interface."
+        "tags": ["violão", "aula", "música"],
+        "description": "Aulas de violão com um tutor que se apresenta junto com a igreja a 10 anos. A turma geralmente vai junto com o grupo de canto para as apresentações. As aulas se dão todas as Quintas às 19:00."
       }
     ]
   },
 
   "team": {
     "id": "team",
-    "title": "Our <span class='text-primary'>Team</span>",
-    "subtitle": "Meet our amazing crew!",
+    "title": "Nosso <span class='text-primary'>Time</span>",
+    "subtitle": "Conheça nosso pessoal sensacional!",
     "members": [
       {
         "name": "Jonathan Moore",
         "srcAvatar": "images/avatars/person-1.png",
-        "role": "CEO",
-        "quote": "With over 20 years of experience in international development, I've dedicated my career to creating sustainable solutions for communities in need."
+        "role": "Líder Religioso",
+        "quote": "Com mais de 20 anos de experiência no meio religioso, eu espero trazer nossa igreja para mais próximo dos jovens."
       },
 
       {
         "name": "Alicia Cole",
         "srcAvatar": "images/avatars/person-2.png",
-        "role": "Marketing Analist",
-        "quote": "With my expertise in market research and consumer behavior, I help businesses make strategic decisions that drive growth and enhance customer satisfaction."
+        "role": "Analista de Marketing",
+        "quote": "Com minha experiência em marketing, tenho certeza de que vou conseguir auxiliar a igreja a trazer o que há de mais moderno na construção de uma identidade visual marcante."
       },
 
       {
         "name": "Sofia Kondakova",
         "srcAvatar": "images/avatars/person-3.png",
-        "role": "Lead Developer",
-        "quote": "With a proven track record of creating complex software systems, I bring a wealth of technical expertise to the table."
-      }
-    ]
-  },
-
-  "clients": {
-    "id": "reviews",
-    "title": "Client <span class='text-primary'>Reviews</span>",
-    "subtitle": "What people say about us!",
-
-    "testimonials": [
-      {
-        "organization": "Spotify",
-        "srcAvatar": "images/clients/client-spotify.svg",
-        "message": "I am absolutely blown away by the Vue3 website template! The minimalist design is simply stunning, and it's incredibly easy to customize to fit my needs. Plus, it loads super fast, which is crucial for my business. I highly recommend this template!",
-        "staffMember": "John Lee – Engineer"
-      },
-      {
-        "organization": "Voloco",
-        "srcAvatar": "images/clients/client-voloco.svg",
-        "message": "I can't say enough good things about this website template. As someone with no coding experience, I was able to create a professional-looking website in no time. The responsiveness is top-notch, and the open-source nature of the code means I can tweak it to my heart's content. This template is a game-changer!",
-        "staffMember": "Any Heather – HR Lead"
-      },
-      {
-        "organization": "Microsoft",
-        "srcAvatar": "images/clients/client-microsoft.svg",
-        "message": "This is hands down the best website template I've ever used. The lightweight codebase makes for a lightning-fast site, and the fully customizable nature allowed me to create a unique and engaging experience for my users. I highly recommend this template to anyone looking for a sleek, modern, and easy-to-use website solution.",
-        "staffMember": "Bill Gates – CEO"
+        "role": "Coordenadora de Orações",
+        "quote": "Confio que com a equipe especializada de orações poderemos atender o pedido de nossos fiéis segundo a ontade do Pai."
       }
     ]
   },
@@ -240,7 +208,7 @@
 
   "footer": {
     "location": {
-      "title": "Location",
+      "title": "Localização",
       "address": "999 Vue Developer's Avenue – Building 4A, Suite 32 <br> Cupertino – California"
     },
 

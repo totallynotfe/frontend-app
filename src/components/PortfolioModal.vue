@@ -30,7 +30,7 @@
 
               <!-- Description -->
               <div class="project-description mt-4">
-                <h5>Project Description</h5>
+                <h5>Descrição do Projeto</h5>
                 <p>{{projectDescription}}</p>
               </div>
             </div>
