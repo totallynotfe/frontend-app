@@ -1,16 +1,4 @@
-# [Agency Foxy Template](https://ryanbalieiro.github.io/foxy-template/) by Ryan Balieiro
-
-I crafted this one-page agency portfolio theme using Vue 3.0 and Bootstrap 5. The theme comprises a range of content sections, including but not limited to a portfolio gallery, testimonials, and contact. Being fully customizable, it can be seamlessly incorporated into your business with great ease.
-
-## Preview
-![alt tag1](readme/screenshot.png)
-
-**[View Live Preview](https://ryanbalieiro.github.io/foxy-template/)**
-
-## Status
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-agency/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-agency.svg)](https://www.npmjs.com/package/startbootstrap-agency)
+# Template para site de catequese feito pelo Grupo 3
 
 ## Usage
 
