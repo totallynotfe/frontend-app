@@ -10,8 +10,6 @@ To use this build environment, make sure you have npm installed on your system.
 
 ## About
 
-This template was created by and is maintained by **[Ryan Balieiro](https://ryanbalieiro.com/)**.
-
 The template is based on the [Bootstrap](https://getbootstrap.com/) framework created by Mark Otto and Jacob Thorton; and the [Vue](https://vuejs.org/) framework created by Evan You.
 
 ## Copyright and License
